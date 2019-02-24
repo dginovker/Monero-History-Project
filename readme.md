@@ -30,7 +30,7 @@ IRC name | IRC start date | Oldest record | Latest Record | Upload location
 ### Step 2
 
 IRC name | Key discussions | Upload location
-:--|:--|:--|:--|:--
+:--|:--|:--
 |#bitmonero | N/A | 
 |#monero | N/A | 
 |#monero-otc | N/A | 
@@ -41,17 +41,17 @@ IRC name | Key discussions | Upload location
 ### Step 3
 
 IRC name | Event 1 Summary | Event 2 Summary | Event 3 Summary | Event 4 Summary
-:--|:--|:--|:--|:--|:--|:--
-|#bitmonero | | | | | 
-|#monero  | | | | |  
-|#monero-otc | | | | | | 
-|#monero-dev | | | | | | 
-|#monero-research-lab | | | | | |
-|#monero-community | | | | | | 
+:--|:--|:--|:--|:--
+|#bitmonero | | | | 
+|#monero  | | | |  
+|#monero-otc | | | | | 
+|#monero-dev | | | | | 
+|#monero-research-lab | | | | |
+|#monero-community | | | | | 
 
 ## Additional assets:
 
 - [Oldest archive of Monero ANN](https://archive.fo/d0zD0)
 
-#### See other Work-In-Progress projects..
+#### See other projects:
  - [Monero Community Coverage Project](https://www.reddit.com/r/MoneroCommunity/comments/ac8war/monero_community_coverage_v2/)
